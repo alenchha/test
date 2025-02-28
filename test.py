@@ -1,0 +1,1 @@
+print('Privet kostya kak dela????')
